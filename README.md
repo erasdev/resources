@@ -1,4 +1,4 @@
-- Make Design Systems People Want to Use
+- Make Design Systems People Want to Use  
 [https://designsystem.university/](https://designsystem.university/)
 
 - Smart Interface Design Patterns with Vitaly Friedman  
